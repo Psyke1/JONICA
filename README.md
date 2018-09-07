@@ -17,4 +17,14 @@
 · OPAMP
 - Diseño de maqueta
 - Algoritmo de reconocimiento
+- Mis 
 
+· TAREAS PENDIENTES
+- Alimentacion a usar
+- Motor de tolva (lo dejamos directo?)
+- LEDs blancos (los dejamos directos?)
+- Definir tramas de comunicación UART
+- Probar la tolva
+
+- Colores de tapas:
+- Rojo, verde, celeste, amarillo, naranja, gris.
