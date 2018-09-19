@@ -7,7 +7,7 @@
 - Control de motores paso a paso
 
 · PAULA
-- Control de servo
+- //Control de servo
 - Comunicacion UART Arduino
 
 · MARIANO
