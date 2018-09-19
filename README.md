@@ -3,21 +3,22 @@
 # ASIGNACION DE TAREAS
 
 · JONI
-- Control de paso a paso + driver
-- Sensor de la rueda
+- Diseño de actuadores para escape de tapas
+- Control de motores paso a paso
 
 · PAULA
 - Control de servo
 - Comunicacion UART Arduino
 
 · MARIANO
-- Comunicacion UART en Python + tramas
+- Comunicacion UART en Python + definición de tramas
 - Ver imagen por navegador (opcional)
+- Puente H
 
 · OPAMP
 - Diseño de maqueta
 - Algoritmo de reconocimiento
-- Mis 
+- Diseño de tolva
 
 · TAREAS PENDIENTES
 - Alimentacion a usar
